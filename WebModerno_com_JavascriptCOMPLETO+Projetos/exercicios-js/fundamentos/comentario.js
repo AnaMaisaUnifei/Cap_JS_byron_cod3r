@@ -4,13 +4,13 @@
  */
 
 // Comentário de uma linha
-conseloe.log('Linha 1')
+console.log('Linha 1')
 
 /* 
 Comentário de 
 múltiplas linhas
 */
-consele.log('Linha2')
+console.log('Linha2')
 
 /*
 * Comentário de
